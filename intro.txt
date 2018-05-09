@@ -1,0 +1,4 @@
+Title: Yagni, Dry, Kiss.
+Description: There are so many programming principles, best practices and guides.
+This will be a general overview about Yagni, Dry and Kiss together with their pros and cons, few use cases and some goofy python code examples.
+
